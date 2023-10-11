@@ -11,9 +11,9 @@
 
 
 
-## My Skills
+## Habilidades
 
-#### Main Stack:
+#### Principais:
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -27,13 +27,19 @@
 
 <img src="https://1.bp.blogspot.com/-ARmfR7gbJqM/VQ8d4lLuqLI/AAAAAAAAOkE/vgLq_VurSD4/s1600/8%2Bbit%2B3.gif" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
+#### Secundárias:
 
 ![PHP](https://img.shields.io/badge/PHP-FFFF00?style=for-the-badge&logo=php&logoColor=black)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![Wordpress](https://img.shields.io/badge/Wordpress-14354C?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-007ACC?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
 
 
-#### Studying in this moment:
+
+
+
+#### Estudando no Momento:
 
 ![PHP](https://img.shields.io/badge/PHP-FFFF00?style=for-the-badge&logo=php&logoColor=black)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -43,7 +49,7 @@
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+#### Estações de Trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
@@ -51,7 +57,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/wzdk_3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
