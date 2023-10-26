@@ -1,10 +1,7 @@
 
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br>Do desenvolvimento backend usando PHP ao desenvolvimento frontend usando ReactTS, sou apaixonado por descobrir novos materiais e usá-los para criar soluções de alta qualidade. Hoje, sou um desenvolvedor front end de nível médio focado em desenvolvimento web.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WILL-MENDES&theme=white&mode=weekly" />
-<img width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILL-MENDES&hide_progress=true" />
- </div>
+
  
  &nbsp;
  &nbsp;
