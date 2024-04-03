@@ -39,6 +39,7 @@
 
 #### Estudando no Momento:
 
+![NodeJS](https://img.shields.io/badge/NodeJS-006600?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-FFFF00?style=for-the-badge&logo=php&logoColor=black)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
