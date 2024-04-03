@@ -1,5 +1,5 @@
 
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br>Do desenvolvimento backend usando PHP ao desenvolvimento frontend usando ReactTS, sou apaixonado por descobrir novos materiais e usá-los para criar soluções de alta qualidade. Hoje, sou um desenvolvedor front end de nível médio focado em desenvolvimento web.</p>&nbsp;
+<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> sou apaixonado por descobrir novos materiais e usá-los para criar soluções de alta qualidade. Hoje, sou um desenvolvedor front end de nível médio focado em desenvolvimento web.</p>&nbsp;
 
 
  
