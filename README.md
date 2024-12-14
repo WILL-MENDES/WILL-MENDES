@@ -1,5 +1,18 @@
 
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> sou apaixonado por descobrir novos materiais e usá-los para criar soluções de alta qualidade. Hoje, sou um desenvolvedor front end de nível médio focado em desenvolvimento web.</p>&nbsp;
+<p align="center">Olá, seja bem-vindo ao meu GitHub! 👋
+Sou um desenvolvedor web apaixonado por design e soluções criativas. 🚀
+Tenho experiência em tecnologias como:
+
+🛠️ PHP, JavaScript e React
+🌐 WordPress
+💾 MySQL
+📁 Git
+🎨 Figma
+Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evoluir como desenvolvedor.
+
+💡 Amo transformar ideias em projetos reais, combinando funcionalidade e design para criar experiências únicas na web.
+
+📫 Entre em contato: [seu e-mail ou link para LinkedIn/portfólio].</p>&nbsp;
 
 
  
