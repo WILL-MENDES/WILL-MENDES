@@ -1,17 +1,17 @@
 <h1>Olá, seja bem-vindo ao meu GitHub! 👋</h1>
 <p align="center"> Sou um desenvolvedor web apaixonado por design e soluções criativas. <br>
-🚀 Tenho experiência em tecnologias como:
+🚀 Tenho experiência em tecnologias como: <br>
 
-🛠️ PHP, JavaScript e React
-🌐 WordPress
-💾 MySQL
-📁 Git
-🎨 Figma
-Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evoluir como desenvolvedor.
+🛠️ PHP, JavaScript, React, HTML e CSS <br>
+🌐 WordPress <br>
+💾 MySQL <br>
+📁 Git <br>
+🎨 Figma e Photoshop <br>
+Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evoluir como desenvolvedor. <br>
 
-💡 Amo transformar ideias em projetos reais, combinando funcionalidade e design para criar experiências únicas na web.
+💡 Amo transformar ideias em projetos reais, combinando funcionalidade e design para criar experiências únicas na web. <br>
 
-📫 Entre em contato: [seu e-mail ou link para LinkedIn/portfólio].</p>&nbsp;
+📫 Entre em contato: <a href="https://www.linkedin.com/in/williamm-dev/">WILLIAM</a>.</p>&nbsp;
 
 
  
