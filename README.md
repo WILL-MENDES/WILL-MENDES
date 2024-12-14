@@ -33,7 +33,7 @@ Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evolui
 
 
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fmqpixel%2Fart%2FDark-Magician-Card-Animation-899028067&psig=AOvVaw1_RrKpdKPeNa-dPWsCkK-U&ust=1734230916158000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDAouCfpooDFQAAAAAdAAAAABAx)&nbsp;
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9efa624-d617-4849-9b0f-23892c8739a6/dev9ahv-f95976e6-50f7-4b3f-9b11-4facff17633b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5ZWZhNjI0LWQ2MTctNDg0OS05YjBmLTIzODkyYzg3MzlhNlwvZGV2OWFodi1mOTU5NzZlNi01MGY3LTRiM2YtOWIxMS00ZmFjZmYxNzYzM2IuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-fXzdTndVFAZyv_ew58puHul2xmdB1zPZ1gZ_OOpEuY" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secundárias:
 
