@@ -37,7 +37,7 @@ Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evolui
 
 #### Secundárias:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-007ACC?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
@@ -51,7 +51,7 @@ Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evolui
 ![Laravel](https://img.shields.io/badge/laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-006600?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
 
 #### Databases:
 
