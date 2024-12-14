@@ -33,7 +33,7 @@ Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evolui
 
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fmqpixel%2Fart%2FDark-Magician-Card-Animation-899028067&psig=AOvVaw1_RrKpdKPeNa-dPWsCkK-U&ust=1734230916158000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDAouCfpooDFQAAAAAdAAAAABAx" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://discord.com/channels/1179185737447510127/1179185738013757466/1317323211779735592" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secundárias:
 
