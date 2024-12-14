@@ -1,6 +1,6 @@
 <h1>Olá, seja bem-vindo ao meu GitHub! 👋</h1>
-<p align="center"> Sou um desenvolvedor web apaixonado por design e soluções criativas. 🚀
-Tenho experiência em tecnologias como:
+<p align="center"> Sou um desenvolvedor web apaixonado por design e soluções criativas. <br>
+🚀 Tenho experiência em tecnologias como:
 
 🛠️ PHP, JavaScript e React
 🌐 WordPress
