@@ -24,24 +24,21 @@ Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evolui
 
 #### Principais:
 
-
+![PHP](https://img.shields.io/badge/PHP-FFFF00?style=for-the-badge&logo=php&logoColor=black)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/NodeJS-006600?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Wordpress](https://img.shields.io/badge/Wordpress-14354C?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+
 
 
 <img src="https://1.bp.blogspot.com/-ARmfR7gbJqM/VQ8d4lLuqLI/AAAAAAAAOkE/vgLq_VurSD4/s1600/8%2Bbit%2B3.gif" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secundárias:
 
-
-![PHP](https://img.shields.io/badge/PHP-FFFF00?style=for-the-badge&logo=php&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Wordpress](https://img.shields.io/badge/Wordpress-14354C?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-007ACC?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
 
@@ -51,14 +48,16 @@ Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evolui
 
 #### Estudando no Momento:
 
+![Laravel](https://img.shields.io/badge/laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=black)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-006600?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-FFFF00?style=for-the-badge&logo=php&logoColor=black)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 #### Databases:
 
+![Sql](https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
 
 #### Estações de Trabalho:
 
