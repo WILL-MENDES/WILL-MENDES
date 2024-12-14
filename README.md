@@ -33,7 +33,7 @@ Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evolui
 
 
 
-<img src="https://discord.com/channels/1179185737447510127/1179185738013757466/1317323211779735592" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![img](https://discord.com/channels/1179185737447510127/1179185738013757466/1317323211779735592)&nbsp;
 
 #### Secundárias:
 
