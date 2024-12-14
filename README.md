@@ -6,7 +6,7 @@
 🌐 WordPress <br>
 💾 MySQL <br>
 📁 Git <br>
-🎨 Figma e Photoshop <br>
+🎨 Figma e Photoshop <br><br>
 Atualmente, estou me aprofundando no universo do Laravel, buscando sempre evoluir como desenvolvedor. <br>
 
 💡 Amo transformar ideias em projetos reais, combinando funcionalidade e design para criar experiências únicas na web. <br>
